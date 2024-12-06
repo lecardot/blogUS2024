@@ -1,0 +1,23 @@
+title:              Un mois chez l'Oncle Sam
+email:              
+description:        Voyage de fin d'étude à travers les États-Unis
+author:             YT
+baseurl:            "/blogVoyageUS"
+url:                "https://tlecardo.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:
+facebook_username:
+instagram_username:  
+linkedin_username:
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
